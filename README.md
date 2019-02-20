@@ -1,2 +1,2 @@
 # Movie-API
-Searches for movies in omdbapi.com
+Searches for movies using omdbapi
